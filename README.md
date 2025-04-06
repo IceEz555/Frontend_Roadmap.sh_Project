@@ -12,8 +12,8 @@ This repository showcases my journey in learning front-end development by comple
 |------------------------|------------------------------------------------|----------------------------------------|------|
 | Single-Page CV         | A one-page HTML CV with structured layout      | ![CV Preview](01_Preview/Single-Page%20CV.png) | [View Live](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Single-Page%20CV/resume.html) |
 | Basic HTML Website     | Static multi-page website with proper structure| ![HTML Preview](01_Preview/Basic_HTML.png)     | [View Live](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Basic%20HTML%20Website/home.html) |
-| Changelog Component    | UI component for changelog display          | ![Changelog Preview](01_Preview/Changelog_Component.png) | [View Live](https://iceez555.github.io/IceEz555.github.io/Frontend%20Projects/Testimonial%20Cards/Testimonial.html) |
-| Testimonial Cards      | A modern testimonial card layout            | ![Testimonial Preview](01_Preview/Testimonial_Cards.png) | [View Live](https://iceez555.github.io/IceEz555.github.io/Frontend%20Projects/Testimonial%20Cards/index.html) |
+| Changelog Component    | UI component for changelog display          | ![Changelog Preview](01_Preview/Changelog_Component.png) | [View Live](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Changelog%20Component/index.html) |
+| Testimonial Cards      | A modern testimonial card layout            | ![Testimonial Preview](01_Preview/Testimonial_Cards.png) | [View Live](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Testimonial%20Cards/Testimonial.html) |
 
 ---
 
