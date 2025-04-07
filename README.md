@@ -14,7 +14,7 @@ This repository showcases my journey in learning front-end development by comple
 | Basic HTML Website     | Static multi-page website with proper structure| ![HTML Preview](01_Preview/Basic_HTML.png)     | [View Live](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Basic%20HTML%20Website/home.html) |
 | Changelog Component    | UI component for changelog display          | ![Changelog Preview](01_Preview/Changelog_Component.png) | [View Live](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Changelog%20Component/index.html) |
 | Testimonial Cards      | A modern testimonial card layout            | ![Testimonial Preview](01_Preview/Testimonial_Cards.png) | [View Live](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Testimonial%20Cards/Testimonial.html) |
-
+| Accessible From UI     | A static form UI built with HTML and CSS,  | ![Accessible From UI Preview](01_Preview/Accessible_Form_UI.png) | [ViewLive](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Accessible%20Form%20UI/index.html) |
 ---
 
 ## 🧠 Project Objectives
