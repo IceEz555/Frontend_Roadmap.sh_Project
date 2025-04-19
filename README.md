@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3300567e-76a6-4699-9019-dde401f240d1)# 🚀 Frontend Roadmap.sh Projects
+# 🚀 Frontend Roadmap.sh Projects
 
 This repository showcases my journey in learning front-end development by completing hands-on projects from [Roadmap.sh](https://roadmap.sh/frontend).
 
@@ -17,7 +17,7 @@ This repository showcases my journey in learning front-end development by comple
 | Accessible From UI     | A static form UI built with HTML and CSS,  | ![Accessible From UI Preview](01_Preview/Accessible_Form_UI.png) | [ViewLive](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Accessible%20Form%20UI/index.html) |
 | Image Grid Layout     | Use CSS grid to create mockup showing six images and responsive   | ![Image Grid Layout Preview](01_Preview/Image_Grid_layout.png) | [ViewLive](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Image%20Grid%20Layout/grid_layout.html) |
 | Tooltip UI     | Understand how to use CSS for dynamic UI effects  | ![Tooltip UI Preview](01_Preview/Tooltip_UI.png) | [ViewLive](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Tooltip%20UI/index.html)) |
-| Tabs           |  basic DOM manipulation and event handling in JavaScript.  | ![Tabs Preview](01_Preview/Tab_js.png) | [ViewLive](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Tabs/Tabs.html) |
+| Tabs           |  Basic DOM manipulation and event handling in JavaScript.  | ![Tabs Preview](01_Preview/Tab_js.png) | [ViewLive](https://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Tabs/Tabs.html) |
 ---
 ---
 
