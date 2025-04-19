@@ -23,7 +23,7 @@ This repository showcases my journey in learning front-end development by comple
 
 ## 🧠 Project Objectives
 
-- ✅ Practice HTML5 Semantic Structurehttps://iceez555.github.io/IceEz555.githup.io/Frontend%20Projects/Tooltip%20UI/index.html
+- ✅ Practice HTML5 Semantic Structure
 - ✅ Practice CSS framework
 - ✅ Understand project structure and asset management
 - ✅ Organize information like resume, project list, and education
@@ -36,7 +36,8 @@ This repository showcases my journey in learning front-end development by comple
 - HTML5
 - Semantic Tags
 - Basic GitHub Pages for deployment
-- CSS Frameworks 
+- CSS Frameworks
+- Java Script
 
 ---
 ## 📌 Upcoming Additions
